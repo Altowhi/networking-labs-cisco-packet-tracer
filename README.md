@@ -1,6 +1,6 @@
 # Networking Labs — Cisco Packet Tracer
 
-A broad set of hands-on networking labs from the Cloud and Infrastructure Specialist program (EC Utbildning), built and configured in Cisco Packet Tracer — spanning addressing, switching, routing, security, and network services.
+Hands-on Cisco networking labs covering IPv4 addressing and subnetting, switching, VLANs, routing, ACLs, firewalls, DHCP/DNS, and network troubleshooting using Cisco Packet Tracer.
 
 ## 📖 What's in here
 
